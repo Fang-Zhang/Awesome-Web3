@@ -467,6 +467,7 @@
 - [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+- [Polybase](https://github.com/polybase/) - An open-source decentralized alternative to Firebase, Supabase, etc that understands tokens, wallets & ZK. 
 
 ## Media
 
